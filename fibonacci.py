@@ -1,4 +1,4 @@
-# Suraj Jheeta
+# WarriorsSuraj
 # March 2nd, 2024
 # This is a simple program that will print out the fibonacci sequence to n terms
 
